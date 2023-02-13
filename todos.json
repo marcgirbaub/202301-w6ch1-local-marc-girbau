@@ -1,3 +1,13 @@
 {
-  "todos": []
+  "todos": [
+    { "id": 1, "name": "Buy groceries", "isDone": false },
+    { "id": 2, "name": "Clean the house", "isDone": false },
+    { "id": 4, "name": "Walk the dog", "isDone": false },
+    { "id": 5, "name": "Go to the gym", "isDone": false },
+    { "id": 6, "name": "Do my homeworks", "isDone": false },
+    { "id": 7, "name": "Study piano", "isDone": false },
+    { "id": 8, "name": "Meditate 15 minutes", "isDone": false },
+    { "id": 9, "name": "Go to the dentist", "isDone": false },
+    { "id": 10, "name": "Watch midudev", "isDone": false }
+  ]
 }
