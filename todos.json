@@ -8,6 +8,14 @@
     { "id": 7, "name": "Study piano", "isDone": false },
     { "id": 8, "name": "Meditate 15 minutes", "isDone": false },
     { "id": 9, "name": "Go to the dentist", "isDone": false },
-    { "id": 10, "name": "Watch midudev", "isDone": false }
+    { "id": 10, "name": "Watch midudev", "isDone": false },
+    { "id": 11, "name": "Learn redux", "isDone": false },
+    { "id": 12, "name": "Call my mom", "isDone": false },
+    { "id": 13, "name": "Eat vegetables", "isDone": false },
+    { "id": 14, "name": "Watch Netflix", "isDone": false },
+    { "id": 15, "name": "Read my book", "isDone": false },
+    { "id": 16, "name": "Tidy up my room", "isDone": false },
+    { "id": 17, "name": "Make my bed", "isDone": false },
+    { "id": 18, "name": "Go to the gym again", "isDone": false }
   ]
 }
